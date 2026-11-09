@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Shameemul Hassan P 👋
 
-<!--
-**Shameem123123/Shameem123123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An MCA student at Calicut University passionate about full-stack web development, Python backend engineering, and software development.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Skills
+- **Languages:** Python, JavaScript, Java, SQL
+- **Frameworks & Web:** Django, HTML5, CSS3, Bootstrap
+- **Tools & Environments:** Git, GitHub, Linux, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **[Squad_Turf](https://github.com/Shameem123123/Squad_Turf):** A full-stack web platform built for booking sports turfs and hosting matches.
+- **[Quiz_App](https://github.com/Shameem123123/Quiz_App):** Interactive quiz application built in Python.
+
+## 🔗 Connect With Me
+- **LinkedIn:** [linkedin.com/in/shameemul-hassan-p](https://www.linkedin.com/in/shameemul-hassan-p)
